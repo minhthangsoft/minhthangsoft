@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "id": 123,
+      "name":"Thọ Nguyễn",
+      "text": "Option 1"
+    },
+    {
+      "id": 456,
+      "name":"Tuyền Nguyễn",
+      "text": "Option 2"
+    },
+    {
+      "id": 789,
+      "name":"Bùi Trung",
+      "text": "Option 3"
+    },
+  ],
+  "pagination": {
+    "more": true
+  }
+}
